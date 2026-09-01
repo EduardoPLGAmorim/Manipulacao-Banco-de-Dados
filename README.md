@@ -1,19 +1,24 @@
-Manipulação de Dados
+# Manipulação de Dados
 
-Repositório de trabalhos desenvolvidos durante os estudos de Manipulação de Dados, com aplicações em R, SQL/SQLite, Python e Polars.
+Repositório de trabalhos desenvolvidos durante os estudos de **Manipulação de Dados**, com aplicações em **R, SQL/SQLite, Python e Polars**.
 
-Os projetos abordam diferentes etapas do processo de análise de dados: importação, limpeza, transformação, armazenamento, consulta, análise, visualização e processamento eficiente.
+Os projetos abordam diferentes etapas do processo de análise de dados: **importação, limpeza, transformação, armazenamento, consulta, análise, visualização e processamento eficiente**.
 
-📌 Competências desenvolvidas
-Manipulação e transformação de dados
-Tratamento de dados faltantes e inconsistências
-Processamento de arquivos em chunks
-Bancos de dados relacionais e SQLite
-Consultas SQL e operações com JOIN
-Análise exploratória e visualização de dados
-Manipulação de DataFrames com R e Python
-Processamento de dados com Polars
-Documentação e geração de relatórios com Quarto
+---
+
+## 📌 Competências desenvolvidas
+
+* Manipulação e transformação de dados
+* Tratamento de dados faltantes e inconsistências
+* Processamento de arquivos em chunks
+* Bancos de dados relacionais e SQLite
+* Consultas SQL e operações com `JOIN`
+* Análise exploratória e visualização de dados
+* Manipulação de DataFrames com R e Python
+* Processamento de dados com Polars
+* Documentação e geração de relatórios com Quarto
+
+---
 
 # 🗂️ Trabalhos e projetos
 
